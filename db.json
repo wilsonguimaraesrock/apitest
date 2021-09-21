@@ -10,16 +10,16 @@
   ],
   "ufs" : [
     {
-      "id": "sc",
-      "title": "Santa Catarina"
+      "key": "sc",
+      "value": "Santa Catarina"
     },
     {
-      "id": "rs",
-      "title": "Rio Grande do Sul"
+      "key": "rs",
+      "value": "Rio Grande do Sul"
     },
     {
-      "id": "pr",
-      "title": "Paraná"
+      "key": "pr",
+      "value": "Paraná"
     }
   ],
   "profile": {
