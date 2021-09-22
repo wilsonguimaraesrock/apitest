@@ -10,16 +10,30 @@
   ],
   "ufs" : [
     {
-      "key": "sc",
+      "key": "Santa Catarina",
       "value": "Santa Catarina"
     },
     {
-      "key": "rs",
+      "key": "Rio Grande do Sul",
       "value": "Rio Grande do Sul"
     },
     {
-      "key": "pr",
+      "key": "Paraná",
       "value": "Paraná"
+    }
+  ],
+  "cidades" : [
+    {
+      "key": "Itajaí",
+      "value": "Itajaí"
+    },
+    {
+      "key": "Balneário Camboriú",
+      "value": "Rio Grande do Sul"
+    },
+    {
+      "key": "Navegantes",
+      "value": "Navegantes"
     }
   ],
   "profile": {
