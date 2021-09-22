@@ -12,6 +12,30 @@
       "key": "Paraná",
       "value": "Paraná"
     }
+  ],
+  "cidades" : [
+    {
+      "key": "Itajaí",
+      "value": "Itajaí"
+    },
+    {
+      "key": "Balneário Camboriú",
+      "value": "Rio Grande do Sul"
+    },
+    {
+      "key": "Blumenau",
+      "value": "Blumenau"
+    }
+  ],
+  "escolas" : [
+    {
+      "key": "3",
+      "value": "Centro"
+    },
+    {
+      "key": "56",
+      "value": "Humberto de Campos"
+    }    
   ]
  
 }
