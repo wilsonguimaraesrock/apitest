@@ -1,30 +1,30 @@
 {
-  "ufs" : [
-    {
-      "key": "Santa Catarina",
-      "value": "Santa Catarina"
-    },
-    {
-      "key": "Rio Grande do Sul",
-      "value": "Rio Grande do Sul"
-    },
-    {
-      "key": "Paraná",
-      "value": "Paraná"
-    }
-  ],
-    "cidades" : [
-    {
-      "key": "Itajaí",
-      "value": "Itajaí"
-    },
-    {
-      "key": "Balneário Camboriú",
-      "value": "Rio Grande do Sul"
-    },
-    {
-      "key": "Blumenau",
-      "value": "Blumenau"
-    }
-  ]
+   "ufs":[
+      {
+         "key":"Santa Catarina",
+         "value":"Santa Catarina"
+      },
+      {
+         "key":"Rio Grande do Sul",
+         "value":"Rio Grande do Sul"
+      },
+      {
+         "key":"Paraná",
+         "value":"Paraná"
+      }
+   ],
+   "cidades":[
+      {
+         "key":"Itajaí",
+         "value":"Itajaí"
+      },
+      {
+         "key":"Balneário Camboriú",
+         "value":"Rio Grande do Sul"
+      },
+      {
+         "key":"Blumenau",
+         "value":"Blumenau"
+      }
+   ]
 }
